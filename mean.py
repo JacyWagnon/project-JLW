@@ -2,13 +2,13 @@
 import sys
 
 sum = 0
-n = 0
+x = 0
 
 # Sum input values
 for num in open('data.txt'):
 	sum += float(num)
-	n += 1
+	x += 1
 
-print sum / n
+print sum / x
 
 print "awesome"
