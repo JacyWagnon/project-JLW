@@ -11,4 +11,4 @@ for num in open('data.txt'):
 
 print sum / x
 
-print "it sucks"
+print "have fun in bootcamp!"
